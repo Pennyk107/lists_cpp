@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  LB7_2.0.cpp
+C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Лабы\LB7_3.0\LB7_2.0\list.h(42): warning C4091: typedef : пропускается слева от "CList<T>::list", когда ни одна переменная не объявлена
+C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Лабы\LB7_3.0\LB7_2.0\list.h(59,2): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "CList<T>"
+C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Лабы\LB7_3.0\LB7_2.0\list.h(42): warning C4091: typedef : пропускается слева от "CList<char *>::list", когда ни одна переменная не объявлена
+C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Лабы\LB7_3.0\LB7_2.0\list.h(80,27): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "CList<char *>"
+C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Лабы\LB7_3.0\LB7_2.0\list.h(42): warning C4091: typedef : пропускается слева от "CList<Clist>::list", когда ни одна переменная не объявлена
+C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Лабы\LB7_3.0\LB7_2.0\list.h(182): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "CList<Clist>"
+C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Лабы\LB7_3.0\LB7_2.0\list.h(42): warning C4091: typedef : пропускается слева от "CList<int>::list", когда ни одна переменная не объявлена
+C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Лабы\LB7_3.0\LB7_2.0\LB7_2.0.cpp(12,13): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "CList<int>"
+C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Лабы\LB7_3.0\LB7_2.0\list.h(42): warning C4091: typedef : пропускается слева от "CList<double>::list", когда ни одна переменная не объявлена
+C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Лабы\LB7_3.0\LB7_2.0\LB7_2.0.cpp(13,19): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "CList<double>"
+C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Лабы\LB7_3.0\LB7_2.0\LB7_2.0.cpp(22,58): warning C4101: key9: неиспользованная локальная переменная
+C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Лабы\LB7_3.0\LB7_2.0\LB7_2.0.cpp(22,71): warning C4101: key11: неиспользованная локальная переменная
+C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Лабы\LB7_3.0\LB7_2.0\LB7_2.0.cpp(22,64): warning C4101: key10: неиспользованная локальная переменная
+  list.cpp
+  Создание кода...
+  LB7_2.0.vcxproj -> C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Лабы\LB7_3.0\Debug\LB7_2.0.exe
